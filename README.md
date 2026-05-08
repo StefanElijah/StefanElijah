@@ -1,4 +1,4 @@
-## 👋 Hi I'm Esteban P. (Stefan Elijah) 
+## <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> Hi I'm Esteban P. (Stefan Elijah) 
 
 :computer: _Technical Lead | Solutions Architect | Solutions Analyst | Junior Software Developer | Java | Spring Boot | Kubernetes | DevOps_<br />
 🏡 Living in Santiago :chile:
